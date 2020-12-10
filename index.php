@@ -1,4 +1,4 @@
 <?php
-	$variable = "insys infotech";
+	$variable = "Hello World";
 	echo $variable;
 ?>
